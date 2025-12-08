@@ -9,7 +9,7 @@
 
 This repository hosts the open dataset and documentation for ATNi’s Retail Assessment 2025, which evaluates how major food retailers across six countries influence access to nutritious, affordable foods through product healthiness, pricing, marketing, and retailer nutrition commitments.
 
-The assessment analyzes 18 major retailers and over 18,000 private-label products to provide insights on how modern retail environments shape dietary choices across diverse markets.
+The assessment analyzes 18 major retailers and over 18,000 private-label products, providing insights into how modern retail environments shape dietary choices across diverse markets.
 
 📄 Files Included
 Filename	Description
@@ -25,67 +25,69 @@ Product-level healthiness metrics
 
 Pricing and affordability indicators
 
-Definitions, notes, and variable explanations
+Definitions and variable descriptions
 
 📘 Country Reports (located in /reports/)
 
-Each folder contains the full report, summary decks, and supplementary analyses for the respective country.
+Each country folder includes a full report, summary presentations, and supplementary analyses.
 
 🇺🇸 USA (Launched)
 
-Retail landscape overview
+Nutrition commitments and responsible marketing
 
-Nutrition commitments and product healthiness
+Product healthiness comparisons
 
-Pricing analysis for healthier vs. less healthy items
+Pricing analysis
 
 🇮🇩 Indonesia (Launched)
 
-Modern retail expansion and affordability trends
+Modern retail dynamics and affordability
 
-Private-label product healthiness
+Private-label healthiness
 
-Marketing and responsible promotion insights
+Responsible promotion
 
 🇵🇭 Philippines (Launched)
 
-Retail influence on consumer access to nutritious food
+Promotional environments
 
-Promotional environments and price comparisons
+Access to nutritious foods
+
+Retailer-level insights
 
 🇫🇷 France
 
-Private-label healthiness and affordability patterns
+Private-label portfolio healthiness
 
-Retailer nutrition policy commitments
+Pricing and affordability patterns
 
 🇿🇦 South Africa
 
-Pricing dynamics in modern retail
+Retailer performance across nutrition indicators
 
-Product healthiness and responsible marketing practices
+Price gaps between healthy and unhealthy products
 
 🇰🇪 Kenya
 
-Retailer performance on nutrition commitments
+Nutrition commitments and product offerings
 
-Pricing gaps and affordability insights
+Pricing and responsible marketing
 
-📐 RetailAssessment2025_Methodology.pdf
+📐 Methodology – RetailAssessment2025_Methodology.pdf
 
 Four-part assessment framework
 
 Detailed scoring logic and indicators
 
-Retailer and product sampling criteria
+Retailer and product selection criteria
 
-Data collection and validation procedures
+Data collection and validation processes
 
 🧭 Background
 
-Modern food retailers shape diets through the products they offer, their pricing strategies, marketing practices, and store design. As modern retail grows—particularly in low- and middle-income countries—their influence on public health becomes increasingly significant.
+Modern food retailers shape diets through product availability, pricing strategies, marketing practices, and store environments. As modern retail grows—especially in low- and middle-income countries—the impact on nutrition becomes increasingly significant.
 
-The Retail Assessment 2025 promotes transparency and accountability by evaluating how retailers support access to nutritious, affordable food across six diverse markets.
+The Retail Assessment 2025 aims to enhance transparency and accountability in the retail sector across six diverse countries.
 
 🚀 Launch Timeline
 Country	Launch Status
