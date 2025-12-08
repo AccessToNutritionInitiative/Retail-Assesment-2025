@@ -13,11 +13,14 @@ The assessment analyzes **18 major retailers** and over **18,000 private-label p
 
 ## 📄 Files Included
 
-| Filename | Description |
+| Resource | Description |
 |----------|-------------|
-| [Retail Open Dataset](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/blob/168a105fb68a83d34b466bb77c2949cc15ab048e/open-dataset/20251112_RetailAssessmentOpentDataset.xlsx) | Main open dataset containing retailer scores, product healthiness data |
-| `RetailAssessment2025_Methodology.pdf` | Full methodology outlining scoring logic, indicators, and analytical framework |
-| `reports/` | Country-level reports (USA, Indonesia, Philippines, France, South Africa, Kenya) and pricing analysis |
+| [Retail Open Dataset](open-dataset/20251112_RetailAssessmentOpenDataset.xlsx) | Main open dataset containing retailer scores and product healthiness data |
+| [Methodology Document](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/blob/c60926f34eab6c7633ba2af0f665ec627c713ed9/methodology/20251103_Retail_Methodology_v2_Final%20(1).pdf) | Full methodology outlining scoring logic, indicators, and analytical framework |
+| [USA Country Report](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/blob/347b10f2746b6044158e34cf63982b7bb76a7ad2/reports/usa/20251120_US_Retail_Assessment_Country_Report_final.pdf) | USA country findings and retailer performance |
+| [Indonesia Country Reports](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/tree/c60926f34eab6c7633ba2af0f665ec627c713ed9/reports/indonesia) | Indonesia country reports and supplementary materials |
+| [Philippines Country Report](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/blob/347b10f2746b6044158e34cf63982b7bb76a7ad2/reports/philippines/20251127_Philippine_Retail_Assessment_v1_FINAL.pdf) | Philippine country findings and analysis |
+| [Pricing Analysis Report](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/blob/347b10f2746b6044158e34cf63982b7bb76a7ad2/reports/pricing-analysis/20251127_Retail_Pricing_Analysis_v1.2_FINAL.pdf) | Cross-country pricing analysis exploring affordability gaps |
 
 ---
 
