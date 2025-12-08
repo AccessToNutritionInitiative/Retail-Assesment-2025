@@ -33,34 +33,35 @@ The assessment analyzes **18 major retailers** and over **18,000 private-label p
 
 ## 📘 Country Reports (located in `/reports/`)
 
-Each country folder includes a **full report**, **summary decks**, and **supplementary analyses**.
-
 ### 🇺🇸 USA (Launched)
-- Nutrition commitments and responsible marketing  
-- Product healthiness comparisons  
-- Pricing analysis  
+- Walmart
+- Kroger
+- Food Lion
 
 ### 🇮🇩 Indonesia (Launched)
-- Modern retail expansion and affordability  
-- Private-label healthiness  
-- Responsible promotion insights  
-
+- Superindo
+- Indomaret
+- Alfamart
+  
 ### 🇵🇭 Philippines (Launched)
-- Promotional environments  
-- Access to nutritious foods  
-- Retailer-level findings  
+- Puregold
+- SM Markets
+- Robinsons
 
 ### 🇫🇷 France
-- Product portfolio healthiness  
-- Pricing and affordability patterns  
+- E.Leclerc
+- Carrefour
+- Intermarché
 
 ### 🇿🇦 South Africa
-- Retailer performance on nutrition indicators  
-- Price differences between healthy and less healthy products  
+- Shoprite
+- Pick n Pay
+- Spar
 
 ### 🇰🇪 Kenya
-- Nutrition commitments  
-- Product healthiness and pricing insights  
+- Carrefour Kenya
+- Naivas
+- Quickmart
 
 ---
 
