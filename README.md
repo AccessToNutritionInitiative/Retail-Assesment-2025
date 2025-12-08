@@ -1,4 +1,4 @@
-# 📘 Retail Assessment 2025 Open Dataset – ATNi (2025)
+# Retail Assessment 2025 Open Dataset – ATNi (2025)
 
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 ![Status: Released](https://img.shields.io/badge/Status-Released-brightgreen)
