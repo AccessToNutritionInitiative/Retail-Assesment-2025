@@ -15,7 +15,7 @@ The assessment analyzes **18 major retailers** and over **18,000 private-label p
 
 | Filename | Description |
 |----------|-------------|
-| [open-dataset/20251112_RetailAssessmentOpentDataset.xlsx](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/blob/168a105fb68a83d34b466bb77c2949cc15ab048e/open-dataset/20251112_RetailAssessmentOpentDataset.xlsx) | Main open dataset containing retailer scores, product healthiness data |
+| [Retail Open Dataset](https://github.com/AccessToNutritionInitiative/Retail-Assesment-2025/blob/168a105fb68a83d34b466bb77c2949cc15ab048e/open-dataset/20251112_RetailAssessmentOpentDataset.xlsx) | Main open dataset containing retailer scores, product healthiness data |
 | `RetailAssessment2025_Methodology.pdf` | Full methodology outlining scoring logic, indicators, and analytical framework |
 | `reports/` | Country-level reports (USA, Indonesia, Philippines, France, South Africa, Kenya) and pricing analysis |
 
