@@ -51,7 +51,7 @@ The assessment analyzes **18 major retailers** and over **18,000 private-label p
 - SM Markets
 - Robinsons
 
-### 🇫🇷 France
+### 🇫🇷 France (Launched)
 - E.Leclerc
 - Carrefour
 - Intermarché
@@ -92,7 +92,7 @@ The **Retail Assessment 2025** aims to enhance transparency and accountability i
 | 🇺🇸 USA | **Launched** |
 | 🇮🇩 Indonesia | **Launched** |
 | 🇵🇭 Philippines | **Launched** |
-| 🇫🇷 France | Upcoming |
+| 🇫🇷 France | **Launched** |
 | 🇿🇦 South Africa | Upcoming |
 | 🇰🇪 Kenya | Upcoming |
 
