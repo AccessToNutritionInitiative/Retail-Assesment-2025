@@ -56,12 +56,12 @@ The assessment analyzes **18 major retailers** and over **18,000 private-label p
 - Carrefour
 - Intermarché
 
-### 🇿🇦 South Africa
+### 🇿🇦 South Africa (Launched)
 - Shoprite
 - Pick n Pay
 - Spar
 
-### 🇰🇪 Kenya
+### 🇰🇪 Kenya (Launched)
 - Carrefour Kenya
 - Naivas
 - Quickmart
@@ -93,8 +93,8 @@ The **Retail Assessment 2025** aims to enhance transparency and accountability i
 | 🇮🇩 Indonesia | **Launched** |
 | 🇵🇭 Philippines | **Launched** |
 | 🇫🇷 France | **Launched** |
-| 🇿🇦 South Africa | Upcoming |
-| 🇰🇪 Kenya | Upcoming |
+| 🇿🇦 South Africa | **Launched** |
+| 🇰🇪 Kenya | **Launched** |
 
 ---
 
